@@ -1,0 +1,3 @@
+import credentials
+
+credentials.readCredentials()
